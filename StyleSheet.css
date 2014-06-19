@@ -7,7 +7,7 @@
 	  #inner{
 	  	margin: 0 auto;
 		background-color: #999;
-		width:750px;height:800px;
+		width:750px;
 	  }
 	  #container{
 	  	width:800px;
@@ -25,8 +25,15 @@
 		height: 300 px;
 		float: left;
 		background-color:#003366;
+	  } 
+	  #text{
+	  	width: 550px;
+		margin: 0 auto;
+	
 	  }
-	  p1{
+	  p{
 	  	font:"Times New Roman", Times, serif;
 		color:#333333;
 	  }
+	  
+	
