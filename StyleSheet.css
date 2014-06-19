@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+  body{
+        background-image: url("Pics/Black.jpg");
+      }
+	  #inner{
+	  	margin: 0 auto;
+		background-color: #999;
+		width:750px;height:800px;
+	  }
+	  #container{
+	  	width:800px;
+		margin: 0 auto;
+		background-color: #333;
+	  }
+	  #banner{
+	  	
+		height: 100px;
+		margin: 0 auto;
+		background-color:#f8f8f8;
+	  }
+	  #menu{
+	  	width: 100 px;
+		height: 300 px;
+		float: left;
+		background-color:#003366;
+	  }
+	  p1{
+	  	font:"Times New Roman", Times, serif;
+		color:#333333;
+	  }
