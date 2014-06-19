@@ -10,15 +10,20 @@
 		width:750px;
 	  }
 	  #container{
-	  	width:800px;
+	  	width:780px;
 		margin: 0 auto;
-		background-color: #333;
+		background-color: #000;
 	  }
 	  #banner{
 	  	
 		height: 100px;
 		margin: 0 auto;
 		background-color:#f8f8f8;
+	  }
+	  #underBanner{
+	  	height: 105px;
+		margin: 0 auto;
+		background-color:#000;
 	  }
 	  #menu{
 	  	width: 100 px;
