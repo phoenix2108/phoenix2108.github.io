@@ -53,5 +53,7 @@
 		position:absolute;
 		left: 345px;
 	  }
-	  
+	  #search{
+		float:right;
+	  }
 	
