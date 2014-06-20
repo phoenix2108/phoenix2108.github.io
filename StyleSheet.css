@@ -42,8 +42,16 @@
 		color:#333333;
 	  }
 	  #copywrite{
-	  	height: 45px;
+	  	height: 35px;
 		background-color:#FFF;
+	  }
+	  #label{
+	height: 63px;
+	width: 126px;
+	margin:0 auto;
+	top: 55px;
+	position:absolute;
+	left: 345px;
 	  }
 	  
 	
