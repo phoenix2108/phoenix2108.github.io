@@ -6,7 +6,7 @@
       }
 	  #inner{
 	  	margin: 0 auto;
-		background-color: #999;
+		background-color: #CCC;
 		width:750px;
 	  }
 	  #container{
@@ -18,7 +18,7 @@
 	  	
 		height: 100px;
 		margin: 0 auto;
-		background-color:#CCC;
+		background-color:#f8f8f8;
 	  }
 	  #underBanner{
 	  	height: 105px;
