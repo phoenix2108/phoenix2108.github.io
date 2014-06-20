@@ -30,6 +30,7 @@
 		height: 300 px;
 		float: left;
 		background-color:#003366;
+		position:fixed;
 	  } 
 	  #text{
 	  	width: 550px;
