@@ -20,12 +20,14 @@
 	  	
 		height: 100px;
 		margin: 0 auto;
+		
 	
 		}
 	  #underBanner{
 	  	height: 105px;
 		margin: 0 auto;
 		background-color:#000;
+		border-bottom-right-radius: 15px;
 	  }
 	  #menu{
 		border: solid 3px;
@@ -34,8 +36,9 @@
 		float: left; 
 		background-color:#003366;
 		position:fixed;
-		border-radius: 12px;
-	  } 
+		border-bottom-right-radius: 15px;
+		box-shadow: 5px 5px 10px #036;
+		} 
 	  #text{
 	  	width: 550px;
 		margin: 0 auto;
