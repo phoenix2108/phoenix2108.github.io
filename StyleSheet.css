@@ -8,7 +8,8 @@
 	  	margin: 0 auto;
 		background-color: #ccc; 
 		width:750px;
-		border-radius: 1px;
+		border-radius: 5px;
+		box-shadow:10px 10px 5px #666666;
 	  }
 	  #container{
 	  	width:780px;
@@ -28,8 +29,8 @@
 	  }
 	  #menu{
 		border: solid 3px;
-	  	width: 100 px;
-		height: 300 px;
+	  	width: 105 px;
+		height: 305 px;
 		float: left; 
 		background-color:#003366;
 		position:fixed;
