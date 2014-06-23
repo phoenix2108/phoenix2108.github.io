@@ -11,11 +11,7 @@
 		border-radius: 5px;
 		box-shadow:5px 5px 10px #006	;
 	  }
-	  #container{
-	  	width:780px;
-		margin: 0 auto;
 	
-	  }
 	  #banner{
 	  	
 		height: 100px;
@@ -29,16 +25,32 @@
 		background-color:#000;	
 		border-bottom-right-radius: 15px;
 	  }
-	  #menu{
-		border: solid #039 3px;
-	  	width: 105 px;
-		height: 305 px;
-		float: left; 
-		background-color:#003366;
-		position:fixed;
-		border-bottom-right-radius: 15px;
-		box-shadow: 5px 5px 10px #006;
+	  @media screen {
+	   #menu{
+			padding-top: 5px;
+			border: solid #039 3px;
+			width: 105 px;
+			height: 305 px;
+			float: left; 
+			background-color:#003366;
+			position:fixed;
+			border-bottom-right-radius: 15px;
+			box-shadow: 5px 5px 10px #006;
 		} 
+	  }
+	 @media handheld{
+	 	#menu{
+			padding-top: 5px;
+			border: solid #039 3px;
+			width: 105 px;
+			height: 305 px;
+			float: left; 
+			background-color:#003366;
+		
+			border-bottom-right-radius: 15px;
+			box-shadow: 5px 5px 10px #006;
+		} 
+	 }
 	  #text{
 	  	width: 550px;
 		margin: 0 auto;
