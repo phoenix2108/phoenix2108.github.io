@@ -8,6 +8,7 @@
 	  	margin: 0 auto;
 		background-color: #ccc; 
 		width:750px;
+		border-radius: 1px;
 	  }
 	  #container{
 	  	width:780px;
@@ -26,11 +27,13 @@
 		background-color:#000;
 	  }
 	  #menu{
+		border: solid 3px;
 	  	width: 100 px;
 		height: 300 px;
-		float: left;
+		float: left; 
 		background-color:#003366;
 		position:fixed;
+		border-radius: 12px;
 	  } 
 	  #text{
 	  	width: 550px;
@@ -52,9 +55,5 @@
 		top: 55px;
 		position:absolute;
 		left: 345px;
-	  }
-	  #search{
-		width:300px;
-		float:right;
 	  }
 	
