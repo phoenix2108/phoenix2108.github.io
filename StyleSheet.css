@@ -26,18 +26,18 @@
 	  #underBanner{
 	  	height: 105px;
 		margin: 0 auto;
-		background-color:#000;
+		background-color:#000;	
 		border-bottom-right-radius: 15px;
 	  }
 	  #menu{
-		border: solid 3px;
+		border: solid #039 3px;
 	  	width: 105 px;
 		height: 305 px;
 		float: left; 
 		background-color:#003366;
 		position:fixed;
 		border-bottom-right-radius: 15px;
-		box-shadow: 5px 5px 10px #036;
+		box-shadow: 5px 5px 10px #006;
 		} 
 	  #text{
 	  	width: 550px;
