@@ -1,75 +1,75 @@
 @charset "UTF-8";
 /* CSS Document */
 
-  body{
-        background-image: url("Pics/Black.jpg");
-      }
-	  #inner{
-	  	margin: 0 auto;
-		background-color: #ccc; 
-		width:750px;
-		border-radius: 5px;
-		box-shadow:5px 5px 10px #006	;
-	  }
-	
-	  #banner{
-	  	
-		height: 100px;
-		margin: 0 auto;
-		
-	
-		}
-	  #underBanner{
-	  	height: 105px;
-		margin: 0 auto;
-		background-color:#000;	
-		border-bottom-right-radius: 15px;
-	  }
-	  @media screen {
-	   #menu{
-			padding-top: 5px;
-			border: solid #666 3px;
-			width: 105 px;
-			height: 305 px;
-			float: left; 
-			background-color:#003366;
-			position:fixed;
-			border-bottom-right-radius: 15px;
-			box-shadow: 5px 5px 10px #006;
-		} 
-	  }
-	 @media handheld{
-	 	#menu{
-			padding-top: 5px;
-			border: solid #039 3px;
-			width: 105 px;
-			height: 305 px;
-			float: left; 
-			background-color:#003366;
-		
-			border-bottom-right-radius: 15px;
-			box-shadow: 5px 5px 10px #006;
-		} 
-	 }
-	  #text{
-	  	width: 550px;
-		margin: 0 auto;
-	
-	  }
-	  p{
-	  	font:"Times New Roman", Times, serif;
-		color:#333333;
-	  }
-	  #copywrite{
-	  	height: 35px;
-		background-color:#FFF;
-	  }
-	  #label{
-		height: 63px;
-		width: 126px;
-		margin: 0 auto;
-		top: 55px;
-		position:absolute;
-		left: 345px;
-	  }
+body{
+	background-image: url("Pics/Black.jpg");
+}
+#inner{
+	margin: 0 auto;
+	background-color: #ccc; 
+	width:750px;
+	border-radius: 5px;
+	box-shadow:5px 5px 10px #006;
+}
+
+#banner{
+
+	height: 100px;
+	margin: 0 auto;
+	box-shadow:5px 10px 10px #000;
+
+
+}
+#underBanner{
+	height: 105px;
+	margin: 0 auto;
+	border-bottom-right-radius: 15px;
+}
+@media screen {
+#menu{
+	padding-top: 5px;
+	border: solid #666 3px;
+	width: 105 px;
+	height: 305 px;
+	float: left; 
+	background-color:#003366;
+	position:fixed;
+	border-bottom-right-radius: 15px;
+	box-shadow: 5px 5px 10px #006;
+} 
+}
+@media handheld{
+#menu{
+	padding-top: 5px;
+	border: solid #039 3px;
+	width: 105 px;
+	height: 305 px;
+	float: left; 
+	background-color:#003366;
+
+	border-bottom-right-radius: 15px;
+	box-shadow: 5px 5px 10px #006;
+} 
+}
+#text{
+	width: 550px;
+	margin: 0 auto;
+
+}
+p{
+	font:"Times New Roman", Times, serif;
+	color:#333333;
+}
+#copywrite{
+	height: 35px;
+	background-color:#999;
+}
+#label{
+	height: 63px;
+	width: 126px;
+	margin: 0 auto;
+	top: 55px;
+	position:absolute;
+	left: 345px;
+}
 	
