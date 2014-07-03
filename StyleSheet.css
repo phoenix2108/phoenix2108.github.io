@@ -4,6 +4,7 @@
 body{
 	background-image: url("Pics/Black.jpg");
 }
+
 #inner{
 	margin-top: 10px;
 	margin: 0 auto;
@@ -15,12 +16,10 @@ body{
 }
 
 #banner{
-
 	height: 100px;
 	margin: 0 auto;
-
-
 }
+
 #underBanner{
 	height: 100px;
 	/*margin: 0 auto;*/
@@ -31,6 +30,7 @@ body{
 	left: 50%;
 	right: 50%;
 }
+
 @media screen {
 #menu{
 	padding-top: 5px;
@@ -44,6 +44,7 @@ body{
 	box-shadow: 5px 5px 10px #006;
 } 
 }
+
 @media handheld{
 #menu{
 	padding-top: 5px;
@@ -57,19 +58,25 @@ body{
 	box-shadow: 5px 5px 10px #006;
 } 
 }
+
 #text{
 	width: 550px;
 	margin: 0 auto;
 
 }
+
 p{
 	font:"Times New Roman", Times, serif;
 	color:#333333;
 }
+
 #copywrite{
 	height: 35px;
 	background-color:#999;
+	border-radius: 15px;
+	box-shadow: 5px 5px 10px #006;
 }
+
 #label{
 	height: 63px;
 	width: 126px;
