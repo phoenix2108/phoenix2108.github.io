@@ -87,9 +87,10 @@ p{
 }
 	
 #search{
-	margin-top: 50px;
+	margin-top: 30px;
 	float: right;
 	width: 250px;
+	box-shadow: 5px 5px 10px #006;
 }
 
 h2{
