@@ -86,3 +86,8 @@ p{
 	left: 345px;
 }
 	
+#search{
+	position:absolute;
+	float:left;
+
+}
