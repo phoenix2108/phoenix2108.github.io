@@ -13,7 +13,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
 <head>
   <title>PHProxy</title>
-  <link rel="stylesheet" type="text/css" href="style.css" title="Default Theme" media="all" />
+  <link rel="stylesheet" type="text/css" href="/proxy/style.css" title="Default Theme" media="all" />
 </head>
 <body onload="document.getElementById('address_box').focus()">
 <div id="container">
